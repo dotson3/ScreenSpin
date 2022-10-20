@@ -1,3 +1,3 @@
 # ScreenSpin
 ScreenSpin
-program runs in pycharm, and auto spins on a website when a sertain number is achieved 
+program runs in pycharm, and auto spins on a website when a certain number is achieved 
